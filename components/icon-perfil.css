@@ -1,0 +1,13 @@
+.icon-perfil{
+    padding: 3px;
+    margin: 8px;
+}
+.icon-perfil.-foto{
+    border-radius: 50%;
+}
+.icon-perfil.-foto:hover{
+    text-decoration: underline;
+    cursor: pointer;
+    border-radius: 50%;
+    background-color: #515151;
+}

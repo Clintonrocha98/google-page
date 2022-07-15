@@ -1,0 +1,19 @@
+.main-rodape{
+    display: block;
+    background-color: var(--color-rodape);
+}
+.main-rodape .caixa{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 15px 30px;
+    border-top: 2px solid var(--color-borda-rodape);
+    font-size: 14px;
+    color: var(--color-fonte-rodape);
+}
+.main-rodape .caixa a:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+.main-rodape .caixa.frist{
+    justify-content: flex-start;
+}

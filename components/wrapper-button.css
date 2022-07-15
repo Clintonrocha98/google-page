@@ -1,0 +1,26 @@
+.wrapper-button{
+    display: flex;
+    
+}
+.wrapper-button div{
+    padding-top: 35px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 0px;
+}
+.wrapper-button button{
+    background-color: #303134;
+    color: var(--color-font);
+    width: 140px;
+    height: 36px;
+    padding: 8px 15px 8px 15px;
+    border-radius: 4px;
+    border: 1px solid #202124;
+}
+.wrapper-button button:hover{
+    box-shadow: 0 1px 3px rgb(23 23 23 / 24%);
+    background-color: #303134;
+    border: 1px solid #5f6368;
+    color: #e8eaed;
+    cursor: pointer;
+}

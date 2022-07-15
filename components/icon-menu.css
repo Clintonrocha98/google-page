@@ -1,0 +1,16 @@
+.icon-menu{
+    margin-left: 17px;
+    width: 24px;
+    height: 24px;
+    padding: 5px;
+}
+.icon-menu svg{
+    width: 24px;
+    height: 24px;
+}
+.icon-menu:hover{
+    text-decoration: underline;
+    cursor: pointer;
+    border-radius: 50%;
+    background-color: #515151;
+}
