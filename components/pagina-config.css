@@ -2,5 +2,5 @@
     background-color: var(--color-page-background);
     font-family: Arial,sans-serif;
     height: 100vh;
-    max-width: 100vh;
+    max-height: 100vh;
 }
