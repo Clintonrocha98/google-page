@@ -1,5 +1,4 @@
 .main-rodape{
-    display: block;
     background-color: var(--color-rodape);
 }
 .main-rodape .caixa{

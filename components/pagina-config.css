@@ -1,5 +1,6 @@
 .pagina-config{
     background-color: var(--color-page-background);
     font-family: Arial,sans-serif;
-    height: 100%;
+    height: 100vh;
+    max-width: 100vh;
 }
