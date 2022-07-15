@@ -17,3 +17,7 @@
 .main-rodape .caixa.frist{
     justify-content: flex-start;
 }
+.main-rodape .caixa a{
+    padding-left: 5px;
+    padding-right: 5px;
+}
