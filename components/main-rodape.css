@@ -1,5 +1,6 @@
 .main-rodape{
     background-color: var(--color-rodape);
+    bottom: 0;
 }
 .main-rodape .caixa{
     display: flex;
