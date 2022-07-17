@@ -44,13 +44,13 @@ input:focus{
 
 .search-bar .lupa{
     padding-top: 5px;
-    padding-left: 45px;
+    padding-left: 0px;
     width: 20px;
 }
 .search-bar .mic{
     padding-top: 4px;
     padding-left: 0px;
-    padding-right: 45px;
+    padding-right: 0px;
     width: 20px;
 }
 
