@@ -1,8 +1,6 @@
 .main-pag{
     display: flex;
-    align-content: center;
-    justify-content: center;
-    align-items: center;
     flex-direction: column;
-    height: 84vh;
+    align-items: center;
+    padding-top: 100px
 }

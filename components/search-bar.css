@@ -11,7 +11,7 @@
     border: 1px solid #5f6368;
     border-radius: 40px;
     padding: 10px;
-    width: 450px;
+    width: 375px;
     margin-top: 20px;
     box-shadow: -2px 2px 4px 0px rgb(0, 0, 0), 0.68;
     -webkit-box-shadow: -2px 2px 4px 0px rgba(0,0,0,0.68)
@@ -29,7 +29,7 @@
     font-size: 14px;
     color: #fff;
     border: none;
-    width: 380px;
+    width: 300px;
     margin-top: 5px;
     margin-left: 10px;
     margin-right: 10px;

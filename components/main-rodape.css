@@ -1,14 +1,21 @@
 .main-rodape{
     background-color: var(--color-rodape);
+    /*codigo teste*/
+    width: 100%;
+    display: flex;
+    flex-direction: column;
     bottom: 0;
+    position: fixed;
 }
 .main-rodape .caixa{
     display: flex;
-    justify-content: space-evenly;
+    flex-wrap: wrap;
+    justify-content: space-between;
     padding: 15px 30px;
     border-top: 2px solid var(--color-borda-rodape);
     font-size: 14px;
     color: var(--color-fonte-rodape);
+    
 }
 .main-rodape .caixa a:hover{
     cursor: pointer;
@@ -18,6 +25,6 @@
     justify-content: flex-start;
 }
 .main-rodape .caixa a{
-    padding-left: 5px;
-    padding-right: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
 }
